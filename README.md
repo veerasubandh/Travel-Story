@@ -32,7 +32,7 @@ In this practical project, I am building a **Tours Booking Website** from scratc
 
 ---
 
-## 🖼Screenshots
+## Screenshots
 
 ### Homepage
 ![Homepage](./Screenshots/Homepage1.png)
@@ -42,11 +42,11 @@ In this practical project, I am building a **Tours Booking Website** from scratc
 ![Homepage](./Screenshots/Homepage5.png)
 ![Homepage](./Screenshots/Homepage6.png)
 
-###Tours Page
+### Tours Page
 ![Featured Tours](./Screenshots/Tour1.png)
 ![Featured Tours](./Screenshots/Tour2.png)
 
-### Tour Details Page
+### Login and Register Page
 ![Login](./Screenshots/Login.png)
 ![Regsiter](./Screenshots/Register.png)
 
